@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HchcMFP8HAo=",
+  "dgSpecHash": "/h+okLQco9k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\prokh\\OneDrive\\Рабочий стол\\Tutorial5\\Tutorial4Tests\\Tutorial4Tests.csproj",
+  "projectFilePath": "D:\\Study\\APBD\\Tutorial5\\Tutorial4Tests\\Tutorial4Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prokh\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\prokh\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",

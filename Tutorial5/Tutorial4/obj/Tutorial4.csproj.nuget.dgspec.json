@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prokh\\OneDrive\\Рабочий стол\\Tutorial5\\Tutorial4\\Tutorial4.csproj": {}
+    "D:\\Study\\APBD\\Tutorial5\\Tutorial4\\Tutorial4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prokh\\OneDrive\\Рабочий стол\\Tutorial5\\Tutorial4\\Tutorial4.csproj": {
+    "D:\\Study\\APBD\\Tutorial5\\Tutorial4\\Tutorial4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prokh\\OneDrive\\Рабочий стол\\Tutorial5\\Tutorial4\\Tutorial4.csproj",
+        "projectUniqueName": "D:\\Study\\APBD\\Tutorial5\\Tutorial4\\Tutorial4.csproj",
         "projectName": "Tutorial4",
-        "projectPath": "C:\\Users\\prokh\\OneDrive\\Рабочий стол\\Tutorial5\\Tutorial4\\Tutorial4.csproj",
+        "projectPath": "D:\\Study\\APBD\\Tutorial5\\Tutorial4\\Tutorial4.csproj",
         "packagesPath": "C:\\Users\\prokh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prokh\\OneDrive\\Рабочий стол\\Tutorial5\\Tutorial4\\obj\\",
+        "outputPath": "D:\\Study\\APBD\\Tutorial5\\Tutorial4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prokh\\AppData\\Roaming\\NuGet\\NuGet.Config"
